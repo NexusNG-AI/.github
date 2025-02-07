@@ -1,3 +1,9 @@
+
+
+![image](https://github.com/user-attachments/assets/26e0025b-a47d-4739-82b6-0bac52e1a5a3)
+
+
+
 # Welcome to NexusNG AI
 
 NexusNG AI is an advanced AI assistant designed to simplify software development by using natural language processing (NLP) and machine learning. Our goal is to make coding smarter and more efficient by providing intelligent solutions to complex tasks, automating repetitive work, and boosting developer productivity.
